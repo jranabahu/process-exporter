@@ -2,7 +2,7 @@ package config
 
 import (
 	// "github.com/kylelemons/godebug/pretty"
-	common "github.com/ncabatoff/process-exporter"
+	common "github.com/jranabahu/process-exporter"
 	. "gopkg.in/check.v1"
 	"time"
 )

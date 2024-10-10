@@ -12,9 +12,9 @@ import (
 	"time"
 
 	"github.com/ncabatoff/fakescraper"
-	common "github.com/ncabatoff/process-exporter"
-	"github.com/ncabatoff/process-exporter/collector"
-	"github.com/ncabatoff/process-exporter/config"
+	common "github.com/jranabahu/process-exporter"
+	"github.com/jranabahu/process-exporter/collector"
+	"github.com/jranabahu/process-exporter/config"
 	"github.com/prometheus/client_golang/prometheus"
 	verCollector "github.com/prometheus/client_golang/prometheus/collectors/version"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
